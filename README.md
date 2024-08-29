@@ -1,1 +1,0 @@
-# davidcraddocktutor-com
