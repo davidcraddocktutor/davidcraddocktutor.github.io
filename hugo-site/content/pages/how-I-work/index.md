@@ -7,7 +7,6 @@ title: How I Work
 url: /how-I-work
 ---
 
-# How I Work
 I am open and honest about how I work, so that there is no confusion and everything is above board.
 
 * I offer an initial call for up to one hour, via Zoom or equivalent, for free. This is so we can gauge how I can help.

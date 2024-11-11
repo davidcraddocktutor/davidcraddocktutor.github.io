@@ -6,8 +6,6 @@ url: /get-in-contact/
 
 ---
 
-# Get In Contact
-
 If you want to get in contact to discuss anything at all, please don't hesitate to do so.
 
 The email address I use to help combat spam (via Mozilla's Relay service) is: <a href="mailto:3rp2mzocr@mozmail.com">3rp2mzocr@mozmail.com</a>
