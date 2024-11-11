@@ -13,5 +13,5 @@ git add -f .
 git commit -m "Latest hugo publish"
 git push origin main
 cd ~/.hqconfig/hugo-davidcraddocktutorcom-blog
-./deploy-davidcraddocktutorcom-hugo.sh
+./deploy-davidcraddocktutor-hugo.sh
 
