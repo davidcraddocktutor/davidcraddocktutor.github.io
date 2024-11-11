@@ -7,7 +7,7 @@ title: How I Work
 url: /how-I-work
 ---
 
-![Image](wfh.jpg)
+![Image](desk.jpg)
 
 I am open and honest about how I work, so that there is no confusion and everything is above board.
 
