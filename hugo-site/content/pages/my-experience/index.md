@@ -7,6 +7,8 @@ title: My Experience
 url: /my-experience/
 ---
 
+![Image](books.jpg)
+
 I have 20 years professional experience in software development and IT-related positions. Some companies you may have heard of:
 * I worked as a Senior Software Engineer on iPlayer at the BBC for several years, including managing a team of software engineers.
 * Worked as a Senior Software Engineer at Arm for 2 years, the famous British semiconductor and software design company, on an Arm HPC C++ compiler.
