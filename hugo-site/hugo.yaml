@@ -37,7 +37,7 @@ languages:
           url: https://davidcraddocktutor.com/my-experience
           weight: 15
         - name: Get in Contact
-          url: https://davidcraddocktutor.com/contact-me
+          url: https://davidcraddocktutor.com/get-in-contact
           weight: 15
 
 outputs:
