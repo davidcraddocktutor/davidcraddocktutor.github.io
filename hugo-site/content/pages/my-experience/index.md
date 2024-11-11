@@ -15,7 +15,7 @@ I have 20 years professional experience in software development and IT-related p
 * Worked at ITV as a Software Engineer on a payroll system that paid the stars of ITV.
 * Briefly worked for public sector consultancy companies such as CGI and BAE Systems Digital Intelligence.
 * I'm an open source software developer on my [vWorkbench](https://davidcraddock.net/vWorkbench) project, a comprehensive Linux-based software development environment.
-* I'm currently studying for a distance-learning Masters in Cyber Security at the University of London, with direction from Royal Holloway college, one of the most prestigious Cyber Security research centres in the world.
+* I'm currently studying for a distance-learning Masters in Cyber Security at the University of London, with direction from Royal Holloway college, one of the most [prestigious Cyber Security research centres in the world](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/information-security/about-us/).
 
 ## Programming Languages
 
