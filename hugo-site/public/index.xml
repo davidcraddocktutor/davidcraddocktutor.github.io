@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DavidCraddockTutor.com</title>
+    <link>https://davidcraddocktutor.com/</link>
+    <description>Recent content on DavidCraddockTutor.com</description>
+    <image>
+      <title>DavidCraddockTutor.com</title>
+      <url>https://davidcraddocktutor.com/mugshot.png</url>
+      <link>https://davidcraddocktutor.com/mugshot.png</link>
+    </image>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en</language>
+    <copyright>David Paul Craddock</copyright>
+    <lastBuildDate>Mon, 11 Nov 2024 00:34:52 +0000</lastBuildDate>
+    <atom:link href="https://davidcraddocktutor.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get In Contact</title>
+      <link>https://davidcraddocktutor.com/get-in-contact/</link>
+      <pubDate>Mon, 11 Nov 2024 00:34:52 +0000</pubDate>
+       <guid isPermaLink="false">https://davidcraddocktutor.com/get-in-contact</guid> 
+      <description>If you want to get in contact to discuss anything at all, please don&amp;rsquo;t hesitate to do so.
+The email address I use to help combat spam (via Mozilla&amp;rsquo;s Relay service) is: 3rp2mzocr@mozmail.com
+I will reply to all emails as soon as I can.
+Find out More: https://davidcraddocktutor.com/my-experience/ - Find out about my experience https://davidcraddocktutor.com/how-I-work/ - Find out about how I work </description>
+    </item>
+    <item>
+      <title>My Experience</title>
+      <link>https://davidcraddocktutor.com/my-experience/</link>
+      <pubDate>Mon, 11 Nov 2024 00:34:52 +0000</pubDate>
+       <guid isPermaLink="false">https://davidcraddocktutor.com/my-experience</guid> 
+      <description>I have 20 years professional experience in software development and IT-related positions. Some companies you may have heard of:
+I worked as a Senior Software Engineer on iPlayer at the BBC for several years, including managing a team of software engineers. Worked as a Senior Software Engineer at Arm for 2 years, the famous British semiconductor and software design company, on an Arm HPC C++ compiler. Worked at ITV as a Software Engineer on a payroll system that paid the stars of ITV.</description>
+    </item>
+    <item>
+      <title>How I Work</title>
+      <link>https://davidcraddocktutor.com/how-I-work/</link>
+      <pubDate>Mon, 04 Nov 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddocktutor.com/how-I-work</guid> 
+      <description>I am open and honest about how I work, so that there is no confusion and everything is above board.
+I offer an initial call for up to one hour, via Zoom or equivalent, for free. This is so we can gauge how I can help. Currently, I charge a flat fee of £20 / hour for my time. I am aware that this is a low fee for my experience, qualifications and current equipment.</description>
+    </item>
+    <item>
+      <title>New Site</title>
+      <link>https://davidcraddocktutor.com/new-site/</link>
+      <pubDate>Mon, 04 Nov 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddocktutor.com/?p=1</guid> 
+      <description>This is my professional tutoring/freelance site, where people can find out what I can do for them.</description>
+    </item>
+  </channel>
+</rss>
