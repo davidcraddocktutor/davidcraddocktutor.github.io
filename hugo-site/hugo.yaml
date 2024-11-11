@@ -34,7 +34,7 @@ languages:
           url: /my-experience
           weight: 11
         - name: How I Work
-          url: /how-I-work
+          url: /how-I-work/
           weight: 12
         - name: Get in Contact
           url: /get-in-contact
