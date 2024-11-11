@@ -30,11 +30,11 @@ languages:
         - name: Search
           url: search/
           weight: 10
-        - name: How I Work
-          url: /how-I-work
-          weight: 11
         - name: My Experience
           url: /my-experience
+          weight: 11
+        - name: How I Work
+          url: /how-I-work
           weight: 12
         - name: Get in Contact
           url: /get-in-contact
