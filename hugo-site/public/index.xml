@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DavidCraddockTutor.com</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on DavidCraddockTutor.com</description>
+    <image>
+      <title>DavidCraddockTutor.com</title>
+      <url>http://localhost:1313/mugshot.png</url>
+      <link>http://localhost:1313/mugshot.png</link>
+    </image>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en</language>
+    <copyright>David Paul Craddock</copyright>
+    <lastBuildDate>Mon, 04 Nov 2024 00:40:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Site</title>
+      <link>http://localhost:1313/new-site/</link>
+      <pubDate>Mon, 04 Nov 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddocktutor.com/?p=1</guid> 
+      <description>This is my professional tutoring/freelance site, where people can find out what I can do for them.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/pages/</guid> 
+      <description>&lt;!doctype html&gt; David Craddock Tutor David Craddock
+1 to 1 Advice, Consulting and/or Tutoring from a Senior Software Engineer/IT Professional with 15 years of experience, and also, 10 years experience in the music industry as a DJ and producer.
+My Experience How I Work </description>
+    </item>
+  </channel>
+</rss>

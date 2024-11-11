@@ -1,0 +1,122 @@
+baseURL: "https://davidcraddocktutor.com"
+title: DavidCraddockTutor.com
+copyright: "© David Paul Craddock"
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: true
+buildExpired: true
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 10
+        - name: How I Work
+          url: https://davidcraddocktutor.com/how-I-work
+          weight: 15
+        - name: My Experience
+          url: https://davidcraddocktutor.com/my-experience
+          weight: 15
+        - name: Get in Contact
+          url: https://davidcraddocktutor.com/contact-me
+          weight: 15
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "DavidCraddockTutor.com"
+  author: David Craddock
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  TocOpen: true # open contents automantically
+  comments: true
+  images: ["/mugshot.png"]
+
+  profileMode:
+    enabled: false
+
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "DavidCraddockTutor.com"
+
+    Content: >
+      Hi, I'm David. This is my professional tutoring/freelance site where I describe what I can help you with.
+
+      <img loading="lazy" style="object-fit:contain;max-width:100%;max-height:100%;width:127px;height:127px;margin-top:20px;margin-bottom:0px;" src="/mugshot.png" alt="A mugshot of me">
+
+  socialIcons:
+    - name: LinkedIn
+      title: My LinkedIn CV
+      url: "https://Linkedin.com/in/davidcraddock"
+    - name: My Professional CV
+      title: My Professional CV
+      url: "https://wordswords.github.io/dpc-resume/CV.html"
+
+  assets:
+    disableHLJS: true
+    disableFingerprinting: true
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+    linkFullImages: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+  highlight:
+    noClasses: false
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
