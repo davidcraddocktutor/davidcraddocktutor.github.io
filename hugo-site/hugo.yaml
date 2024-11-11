@@ -31,14 +31,14 @@ languages:
           url: search/
           weight: 10
         - name: How I Work
-          url: https://davidcraddocktutor.com/how-I-work
-          weight: 15
+          url: /how-I-work
+          weight: 11
         - name: My Experience
-          url: https://davidcraddocktutor.com/my-experience
-          weight: 15
+          url: /my-experience
+          weight: 12
         - name: Get in Contact
-          url: https://davidcraddocktutor.com/get-in-contact
-          weight: 15
+          url: /get-in-contact
+          weight: 13
 
 outputs:
   home:
@@ -82,7 +82,9 @@ params:
     Content: >
       Hi, I'm David. This is my professional tutoring/freelance site where I describe what I can help you with.
 
-      <img loading="lazy" style="object-fit:contain;max-width:100%;max-height:100%;width:127px;height:127px;margin-top:20px;margin-bottom:0px;" src="/mugshot.png" alt="A mugshot of me">
+      Feel free to [check out my experience](/my-experience), find out [how I work](/how-I-work) and (get in contact with me)[/get-in-contact).
+
+      <img loading="lazy" style="object-fit:contain;max-width:100%;max-height:100%;width:127px;height:127px;margin-top:20px;margin-bottom:0px;" src="/impressive.png" alt="An impressive picture of my studio setup">
 
   socialIcons:
     - name: LinkedIn
