@@ -12,4 +12,8 @@ The email address I use to help combat spam (via Mozilla's Relay service) is: <a
 
 I will reply to all emails as soon as I can.
 
+## Find out More:
+* [https://davidcraddocktutor.com/my-experience/](https://davidcraddocktutor.com/my-experience) - Find out about my experience
+* [https://davidcraddocktutor.com/how-I-work/](https://davidcraddocktutor.com/how-I-work) - Find out about how I work
+
 
