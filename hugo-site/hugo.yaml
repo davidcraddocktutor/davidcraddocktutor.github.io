@@ -82,9 +82,9 @@ params:
     Content: >
       Hi, I'm David. This is my professional tutoring/freelance site where I describe what I can help you with.
 
-      Feel free to [check out my experience](/my-experience), find out [how I work](/how-I-work) and (get in contact with me)[/get-in-contact).
+      Feel free to [check out my experience](/my-experience), find out [how I work](/how-I-work) and [get in contact with me](/get-in-contact).
 
-      <img loading="lazy" style="object-fit:contain;max-width:100%;max-height:100%;width:127px;height:127px;margin-top:20px;margin-bottom:0px;" src="/impressive.png" alt="An impressive picture of my studio setup">
+      <img loading="lazy" src="/impressive.png" alt="An impressive picture of my studio setup">
 
   socialIcons:
     - name: LinkedIn
