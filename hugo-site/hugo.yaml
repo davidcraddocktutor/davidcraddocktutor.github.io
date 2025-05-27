@@ -39,6 +39,9 @@ languages:
         - name: Get in Contact
           url: /get-in-contact
           weight: 13
+        - name: More
+          url: https://davidcraddock.net
+          weight: 14
 
 outputs:
   home:
