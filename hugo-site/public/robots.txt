@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://davidcraddocktutor.github.io/sitemap.xml
