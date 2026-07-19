@@ -26,9 +26,6 @@ languages:
       series: series
     menu:
       main:
-        - name: Search
-          url: search/
-          weight: 10
         - name: My Experience
           url: /my-experience
           weight: 11
